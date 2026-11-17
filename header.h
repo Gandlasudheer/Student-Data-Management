@@ -19,7 +19,7 @@ void delete_student(STUD **);
 void show_student(STUD *);
 void modify_student(STUD *);
 void save_student(STUD *);
-//void load_student(STUD **);
+void load_student(STUD **);
 void sort_student(STUD *);
 void reverse_student(STUD **);
 void delete_all(STUD **);
